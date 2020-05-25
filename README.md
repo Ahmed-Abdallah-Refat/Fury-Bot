@@ -1,2 +1,2 @@
-# MUSIC
+# FURY
 A Simle Music bot
