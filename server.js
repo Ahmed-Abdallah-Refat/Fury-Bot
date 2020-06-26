@@ -16,7 +16,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://furycanary.glitch.me/`); //replace jagroshmusicbot with your project name بدل jagroshmusicbot بي اسم البروجكت حقك
+  http.get(`https://github.com/Ahmed-Abdallah-Refat/Fury-Bot/`); //replace jagroshmusicbot with your project name بدل jagroshmusicbot بي اسم البروجكت حقك
 }, 280000); 
   
   /* ملاحظة: في حاله كان البريفكس يلي تبيه علامه تعجب او حتى مع بعض البريفكسات الثانيه
